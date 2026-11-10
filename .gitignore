@@ -1,0 +1,14 @@
+# Data and Weights
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pth
+*.pt
+content/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
